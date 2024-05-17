@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="93e3c6e9-27e8-4c11-a88e-ae76d057d886" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/org/billionaire/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/reportWebVitals.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/setupTests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/billionaire/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stock-dashboard/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stock-dashboard/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stock-dashboard/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stock-dashboard/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stock-dashboard/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stock-dashboard/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stock-dashboard/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stock-dashboard/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stock-dashboard/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stock-dashboard/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stock-dashboard/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stock-dashboard/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stock-dashboard/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stock-dashboard/src/assets/StockView.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stock-dashboard/src/assets/images/dollar_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stock-dashboard/src/components/EditorsPicks.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stock-dashboard/src/components/GraphComponent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stock-dashboard/src/components/IndexTickers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stock-dashboard/src/components/MarketDataContext.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stock-dashboard/src/components/MarketSummary.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stock-dashboard/src/components/MarketTabs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stock-dashboard/src/components/Navbar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stock-dashboard/src/components/Navbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stock-dashboard/src/components/News.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stock-dashboard/src/components/ScrollingTicker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stock-dashboard/src/components/TVWidget.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stock-dashboard/src/components/Theme.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stock-dashboard/src/components/Watchlist.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stock-dashboard/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stock-dashboard/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stock-dashboard/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stock-dashboard/src/reportWebVitals.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stock-dashboard/src/setupTests.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2gEzNWqMGoXAlSWlwTxiRqUcsRw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "jdk.selected.JAVA_MODULE": "17",
+    "last_opened_file_path": "/Users/novice/IdeaProjects/bad-boys-billionaires/stock-dashboard/assets/images",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/stock-dashboard/assets/images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/stock-dashboard/src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="93e3c6e9-27e8-4c11-a88e-ae76d057d886" name="Changes" comment="" />
+      <created>1715277485521</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715277485521</updated>
+      <workItem from="1715277486779" duration="22874000" />
+      <workItem from="1715598210717" duration="36318000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
