@@ -1,8 +1,8 @@
-#BullsEye - Live Market Dashboard
+# BullsEye - Live Market Dashboard
 
 BullsEye is a dynamic web application designed for tracking real-time financial market data. Leveraging APIs from TradingView and MarketAux, it provides users with up-to-date information on stock prices, market trends, and relevant news articles.
 
-#Features
+#  Features
 
 Real-time Market Data: Display live prices and trends for major indices like NASDAQ, S&P 500, Dow Jones, Nikkei, and more.
 Stock Specific Data: Access detailed price information for popular stocks such as Apple, Google, Microsoft, Amazon, and others.
