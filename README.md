@@ -2,7 +2,7 @@
 
 BullsEye is a dynamic web application designed for tracking real-time financial market data. Leveraging APIs from TradingView and MarketAux, it provides users with up-to-date information on stock prices, market trends, and relevant news articles.
 
-#  Features
+# Features
 
 Real-time Market Data: Display live prices and trends for major indices like NASDAQ, S&P 500, Dow Jones, Nikkei, and more.
 Stock Specific Data: Access detailed price information for popular stocks such as Apple, Google, Microsoft, Amazon, and others.
@@ -18,15 +18,15 @@ CSS: For styling the application.
 Netlify/Heroku: Recommended platforms for deployment.
 Getting Started
 
-#Prerequisites
-
+# Prerequisites
+ 
 Ensure you have Node.js and npm installed:
 
 bash
 node --version
 npm --version
 
-Installation
+#Installation
 Clone the repository and install the dependencies:
 
 
@@ -47,7 +47,7 @@ npm start
 The application will be available at http://localhost:3000.
 
 
-#Contributing
+# Contributing
 
 Contributions are welcome! For major changes, please open an issue first to discuss what you would like to change.
 
